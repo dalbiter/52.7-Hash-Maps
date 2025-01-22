@@ -1,0 +1,11 @@
+{
+  "name": "hash_maps",
+  "version": "1.0.0",
+  "description": "hash_maps practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "dan",
+  "license": "ISC"
+}
